@@ -11,11 +11,11 @@ tags:
 show_hero: false
 menu:
   - title: Home
-    url: /
+    url: recipes/
   - title: Contact
-    url: /contact
+    url: recipes/contact
   - title: Feed
-    url: /feed.xml
+    url: recipes/feed.xml
 email: domhanll@thunkable.com
 disqus_username: disqus_username
 
