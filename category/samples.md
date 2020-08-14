@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Travel
-slug: travel
+title: Sample Apps
+slug: samples
 description: A category for travel related posts.
 ---

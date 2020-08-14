@@ -5,8 +5,8 @@ title: Build your own Maze App
 description: Fun maze game that you can build with the canvas component
 image: https://i.ytimg.com/vi/s_06rsh_AKs/hqdefault.jpg
 optimized_image: https://i.ytimg.com/vi/s_06rsh_AKs/hqdefault.jpg
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-category: 'games'
+subtitle: This is where the post subtitle is displayed
+category: game
 tags:
   - game
   - design

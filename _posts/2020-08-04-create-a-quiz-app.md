@@ -6,7 +6,7 @@ subtitle: Multiple choice or Text based?
 description: Test your knowledge with this quiz app.
 image: https://i.ytimg.com/vi/Yah0bKzHIng/hqdefault.jpg
 optimized_image: https://i.ytimg.com/vi/Yah0bKzHIng/hqdefault.jpg
-category: games
+category: game
 tags:
   - game
   - functions

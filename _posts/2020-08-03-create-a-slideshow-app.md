@@ -6,7 +6,7 @@ subtitle: This fully working sample app shows you how you create a slideshow of 
 description: This fully working sample app shows you how you create a slideshow of your favorite images.
 image: https://i.ytimg.com/vi/mExUv-1dpuQ/hqdefault.jpg
 optimized_image: https://i.ytimg.com/vi/mExUv-1dpuQ/hqdefault.jpg
-category: sample apps
+category: samples
 tags:
   - image
   - carousel
