@@ -5,7 +5,7 @@ title: How to use the Image Recognizer
 subtitle: Sending a photo to the image recognizer and displaying the result. 
 image: https://i.ytimg.com/vi/yG9mdhn70w4/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLD-PQpjBXgi3gCkD0xBFW6eeqO0ag
 optimized_image: https://i.ytimg.com/vi/yG9mdhn70w4/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLD-PQpjBXgi3gCkD0xBFW6eeqO0ag
-category: tips and tricks
+category: tips
 tags:
   - image recognizer
   - camera

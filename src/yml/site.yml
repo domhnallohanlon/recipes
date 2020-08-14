@@ -1,11 +1,10 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Thunkable Recipes
+title: Thunkable App Recipes
+description: Learn how to create apps quickly and how to get the most from your Thunkable account.
 tags:
-  - blog
+  - no-code
   - template
-  - jekyll
+  - Thunkable
   - theme
   - netlify
 show_hero: true
@@ -18,5 +17,5 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
-disqus_username: disqus_username
+email: domhnall@thunkable.com
+#disqus_username: disqus_username

@@ -83,6 +83,15 @@ layout: main
                         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
                             <p class="description">{{ post.description }}</p>
                         </a>
+                       {% if post.remix %} 
+                        <div>
+                            <a href="{{ post.remix }}" role="button" class="get-theme">
+                                <p style="color:red">
+                                    Remix Project.
+                                </p>
+                            </a>
+                        </div>
+                       {% endif %}
                         <div class="tags">
                             {% for tag in post.tags %}
                                 {% if tag != "" %}

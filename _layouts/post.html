@@ -24,12 +24,23 @@
                 {% if page.image and paginator.activated == nil %}
                     <img src="{{ page.image }}" alt="Featured image" class="post-cover">
                 {% endif %}
+                
+                {% if page.remix %} 
+                <div>
+                    <a href="{{ page.remix }}" role="button" class="get-theme">
+                        <p style="color:red">
+                            Remix Project.
+                        </p>
+                    </a>
+                </div>
 
                 {% include pagination-post.html progressBar=true %}
 
                 {% include toc.html %}
 
                 {{ content }}
+
+               {% endif %}
 
                 {% include pagination-post.html %}
             </article>
